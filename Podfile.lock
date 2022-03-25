@@ -1,0 +1,28 @@
+PODS:
+  - Alamofire (5.5.0)
+  - PromiseKit (6.15.3):
+    - PromiseKit/CorePromise (= 6.15.3)
+    - PromiseKit/Foundation (= 6.15.3)
+    - PromiseKit/UIKit (= 6.15.3)
+  - PromiseKit/CorePromise (6.15.3)
+  - PromiseKit/Foundation (6.15.3):
+    - PromiseKit/CorePromise
+  - PromiseKit/UIKit (6.15.3):
+    - PromiseKit/CorePromise
+
+DEPENDENCIES:
+  - Alamofire (~> 5.5)
+  - PromiseKit (~> 6.8)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - PromiseKit
+
+SPEC CHECKSUMS:
+  Alamofire: 1c4fb5369c3fe93d2857c780d8bbe09f06f97e7c
+  PromiseKit: 3b2b6995e51a954c46dbc550ce3da44fbfb563c5
+
+PODFILE CHECKSUM: 3f103f6fb06cbd23e76ae474c8c76e9b46e3ed89
+
+COCOAPODS: 1.11.1
